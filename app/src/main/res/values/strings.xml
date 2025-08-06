@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lunch Menu</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="todays_menu">Today\'s Menu</string>
+    <string name="menu_coming_soon">Menu coming soon</string>
+    <string name="no_lunch_plan_today">No Lunch Plan Today</string>
+</resources>
